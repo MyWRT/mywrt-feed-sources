@@ -8,7 +8,7 @@
 [feed 构建器](https://github.com/MyWRT/mywrt-feed-builder) 提交 pull request 或 issue，
 在其 `sources.toml` 或 `local-patches/` 上修改（本仓库是生成产物）。
 
-最后更新：**2026-11-12 11:16 UTC**
+最后更新：**2026-11-13 11:01 UTC**
 
 软件包位于 `<category>/<name>/`（`luci`、`net`、`utils`、`telephony`……）。
 
