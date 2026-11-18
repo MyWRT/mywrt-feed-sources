@@ -9,7 +9,7 @@ the whole tree. Change `sources.toml` or `local-patches/` in the
 [feed builder](https://github.com/MyWRT/mywrt-feed-builder) instead, by opening a
 pull request or an issue on it (this repository is generated).
 
-Last updated: **2026-11-17 11:54 UTC**
+Last updated: **2026-11-18 11:45 UTC**
 
 Packages live in `<category>/<name>/` (`luci`, `net`, `utils`, `telephony`, ...).
 
